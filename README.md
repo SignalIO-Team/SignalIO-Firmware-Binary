@@ -1,2 +1,2 @@
 # SignalIO-Firmware-Binary
-SignalIO firmware binary file
+SignalIO firmware version 1.0.0 binary file
